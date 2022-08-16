@@ -12,7 +12,7 @@
   
   🧑‍💻 In 2022, I took some online courses associated with IT and computer science mainly from Edx, Oracle University, Google, Future Learn, LinkedIn Learning, Microsoft Learing Path, tableau e-learning, Forage, etc.
   
-  🤗🗺️🧭 Currently, I am ready to join a full stack development team or data engineering team or both anywhere in the World as long as it's safe.
+  🤗🗺️🧭 Currently, I am ready to join a full stack development team or data engineering team or both anywhere in the World.
   
   
 
