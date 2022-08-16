@@ -1,6 +1,6 @@
 # This is my portfolio website.  https://ktablog.github.io/
 
-  <u> 🔍 Please hover your mouse on photos to view in colors.  Please click ◐ the circle on top right corner to switch the color theme. </u>
+  * 🔍 Please hover your mouse on photos to view in colors.  Please click ◐ the circle on top right corner to switch the color theme. *
 
   💻🌱 I am a software developer and data engineer who is keen to do coding and solve the economic problems.  Obviously I want to be a teammate to build wonderful things because I am an only one child in my family and there is no geek who can do coding among my relatives and neighbours.  
   
